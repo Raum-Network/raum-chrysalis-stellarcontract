@@ -49,7 +49,7 @@ Chrysalis is built with **simplicity** and **accessibility** at its core:
 Chrysalis brings liquid staking to the **Stellar blockchain**, allowing users to stake native Stellar assets like **XLM** while earning Ethereum-based staking yields.
 
 ### Key Features:
-- **Stellar-Native Staking** – Stake XLM and other Stellar-native assets without leaving the ecosystem.
+- **Stellar-Native Staking** – Stake XLM,USDC and other Stellar-native assets without leaving the ecosystem.
 - **Cross-Chain Yields** – Earn Ethereum staking rewards (e.g., **stETH**) bridged securely via Allbridge.
 - **DeFi-Ready Liquidity** – Receive wrapped stETH (**wstETH**) or stETH (**stETH**)  on Stellar for use in decentralized finance protocols.
 
