@@ -80,7 +80,7 @@ Built on the Stellar Soroban VM, the core contract:
 
 ## 🔭 Roadmap
 
-- ✅ Testnet bridge via Allbridge (live)
+- ✅ Testnet bridge via Allbridge (in progress)
 - 💧 Lido integration (in progress)
 - 🔄 Wrapped stETH smart contract (development phase)
 - 🔬 End-to-end testing on testnet
@@ -96,5 +96,4 @@ Built on the Stellar Soroban VM, the core contract:
 
 ## 🤝 Get Involved
 
-Interested in contributing or collaborating? We'd love to hear from you. Reach out via GitHub or [join our community](#) (link to community if available).
-
+Interested in contributing or collaborating? We'd love to hear from you. Reach out via GitHub or [join our community](https://raum.network) 
